@@ -4,3 +4,15 @@
 body{
     background-color: #FFFFFF;
 }
+header{
+    background-color: rgb(68, 141, 53);
+    color:white;
+   display:flex;
+   justify-content: space-around;
+}
+.logo{width: 8%;}
+.cabecalho-texto{
+    display: inline-block;
+    margin: 0 20px;
+    padding-top: 20px;
+}
